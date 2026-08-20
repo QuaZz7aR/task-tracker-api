@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres
+    container_name: pg
+    environment:
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: tasktracker
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql
+
+volumes:
+  pg_data:
