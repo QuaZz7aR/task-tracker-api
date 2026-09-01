@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1fb4f4-5a5f-4a52-993c-41868bb4986f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +88,14 @@
       <workItem from="1787069756600" duration="2632000" />
       <workItem from="1787213701042" duration="8009000" />
       <workItem from="1787222438524" duration="17000" />
+      <workItem from="1787231075531" duration="159000" />
+      <workItem from="1787231299012" duration="252000" />
+      <workItem from="1787590787885" duration="2000" />
+      <workItem from="1787651826696" duration="1255000" />
+      <workItem from="1787654224077" duration="1000" />
+      <workItem from="1787851765036" duration="33000" />
+      <workItem from="1787934190452" duration="40000" />
+      <workItem from="1788274543341" duration="6040000" />
     </task>
     <servers />
   </component>
